@@ -1,0 +1,12 @@
+{
+  "launch_time": "08:30",
+  "browser": "chrome",
+  "headless": false,
+  "sites": [
+    "https://www.google.com",
+    "https://github.com",
+    "https://qiita.com",
+    "https://zenn.dev",
+    "https://www.youtube.com"
+  ]
+}
